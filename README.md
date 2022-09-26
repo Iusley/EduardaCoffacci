@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ### Olá meu nome é Maria Eduarda Coffacci 👋😊
 
