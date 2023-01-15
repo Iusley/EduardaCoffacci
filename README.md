@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-coffacci-xavier-3b0205a3/)
 
-![Coffacci GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardaCoffacci&show_icons=true&theme=synthwave)
+
 
 ## Tencnologias que tenho conhecimento e que estou estudando atualmente.
 
