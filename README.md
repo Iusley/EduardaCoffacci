@@ -4,6 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaeduardacoffaccidevfrontend/)
 
 
+![gif](https://github.com/EduardaCoffacci/EduardaCoffacci/blob/main/1a7158689e5ce37e5d78d97c332a003f.gif)
 
 ## Tencnologias que tenho conhecimento e que estou estudando atualmente.
 
