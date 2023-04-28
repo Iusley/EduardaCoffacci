@@ -28,4 +28,4 @@
 
 
 ![snake gif](https://github.com/EduardaCoffacci/EduardaCoffacci/blob/output/github-contribution-grid-snake.svg)
-📧 eduarda.coffacci@gmail.com
+
