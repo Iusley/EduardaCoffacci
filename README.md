@@ -2,7 +2,7 @@
 ![gif](https://github.com/EduardaCoffacci/EduardaCoffacci/blob/main/1a7158689e5ce37e5d78d97c332a003f.gif)
 
 # Olá meu nome é Maria Eduarda Coffacci 👋😊
-# Sou apaixonada por tecnolia e pelo mundo do desenvolvimento web 💜
+## Sou apaixonada por tecnologia e pelo mundo do desenvolvimento web 💜
 
 <div align="center">
   <a href="https://github.com/davidluiz91">
