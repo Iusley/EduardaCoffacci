@@ -1,14 +1,13 @@
-# Seja bem vindo!!! ![gif](https://github.com/EduardaCoffacci/EduardaCoffacci/blob/main/gatinho.gif)
+# Olá Seja bem-vindo!!!
 
-  **Olá sou a Maria Eduarda Coffacci**👋😊<br>
-  **Apaixonada por tecnologia e pelo mundo do desenvolvimento web,** <br>
-  **a tecnologia é o que me move a buscar sempre o melhor,**<br>
-  **a ultrapassar limites e sempre criar algo novo** 💜
-  
+ **Sou a Maria Eduarda Coffacci**👋😊<br>
+ **Apaixonada por tecnologia e pelo mundo do desenvolvimento web,** <br>
+ **a tecnologia é o que me move a buscar sempre o melhor,**<br>
+ **a ultrapassar limites e sempre criar algo novo** 💜
+
+![gif](https://github.com/EduardaCoffacci/EduardaCoffacci/blob/main/32147-cute-cat-works-unscreen.gif) 
+
   <hr>
-
-![gif](https://github.com/EduardaCoffacci/EduardaCoffacci/blob/main/1a7158689e5ce37e5d78d97c332a003f.gif)
-<hr>
 
 **Github Estatística**
 <div>
