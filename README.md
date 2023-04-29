@@ -1,13 +1,13 @@
-# Olá Seja bem-vindo!!!
+# Olá Seja bem-vindo!!! ![gif](https://github.com/EduardaCoffacci/EduardaCoffacci/blob/main/gatinho.gif)
 
- **Sou a Maria Eduarda Coffacci**👋😊<br>
- **Apaixonada por tecnologia e pelo mundo do desenvolvimento web,** <br>
- **a tecnologia é o que me move a buscar sempre o melhor,**<br>
- **a ultrapassar limites e sempre criar algo novo** 💜
-
-![gif](https://github.com/EduardaCoffacci/EduardaCoffacci/blob/main/32147-cute-cat-works-unscreen.gif) 
+ #### Sou a Maria Eduarda Coffacci👋😊<br>
+ Apaixonada por tecnologia e pelo mundo do desenvolvimento web, <br>
+ a tecnologia é o que me move a buscar sempre o melhor,<br>
+ a ultrapassar limites e sempre criar algo novo💜    
+ 
+ 
+ ![gif](https://github.com/EduardaCoffacci/EduardaCoffacci/blob/main/32147-cute-cat-works-unscreen.gif)
 <hr>
-
 
 **Github Estatística**
 <div>
@@ -18,7 +18,7 @@
 <hr>
 
   
-**Linguagens e ferramentas que tenho conhecimentos**
+**Linguagens e ferramentas que tenho conhecimentos** 
 <div style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="David-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -29,8 +29,9 @@
   <img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
   
-  ##
-  **Minhas redes sociais**
+  <hr>
+  
+  **Minhas redes sociais** 
 <div> 
   <a href="https://discord.gg/#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:Eduarda.Coffacci@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
