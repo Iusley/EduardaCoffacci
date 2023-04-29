@@ -7,8 +7,6 @@
 
 ![gif](https://github.com/EduardaCoffacci/EduardaCoffacci/blob/main/32147-cute-cat-works-unscreen.gif) 
 
-  <hr>
-
 **Github Estatística**
 <div>
   <a href="https://github.com/EduardaCoffacci">
