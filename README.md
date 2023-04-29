@@ -6,6 +6,8 @@
  **a ultrapassar limites e sempre criar algo novo** 💜
 
 ![gif](https://github.com/EduardaCoffacci/EduardaCoffacci/blob/main/32147-cute-cat-works-unscreen.gif) 
+<hr>
+
 
 **Github Estatística**
 <div>
@@ -15,6 +17,7 @@
 </div>
 <hr>
 
+  
 **Linguagens e ferramentas que tenho conhecimentos**
 <div style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
