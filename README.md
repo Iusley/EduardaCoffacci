@@ -10,8 +10,8 @@
 ![gif](https://github.com/EduardaCoffacci/EduardaCoffacci/blob/main/1a7158689e5ce37e5d78d97c332a003f.gif)
 <hr>
 
-<div align="center">Github Estatística</div>
-<div align="center">
+**Github Estatística**
+<div>
   <a href="https://github.com/EduardaCoffacci">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardaCoffacci&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaCoffacci&layout=compact&langs_count=7&theme=cobalt"/>
