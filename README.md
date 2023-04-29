@@ -1,9 +1,9 @@
 # Olá Seja bem-vindo!!! ![gif](https://github.com/EduardaCoffacci/EduardaCoffacci/blob/main/gatinho.gif)
 
- #### Sou a Maria Eduarda Coffacci👋😊<br>
- Apaixonada por tecnologia e pelo mundo do desenvolvimento web, <br>
- a tecnologia é o que me move a buscar sempre o melhor,<br>
- a ultrapassar limites e sempre criar algo novo💜    
+ **Sou a Maria Eduarda Coffacci**👋😊<br>
+ **apaixonada por tecnologia e pelo mundo do desenvolvimento web,** <br>
+ **a tecnologia é o que me move a buscar sempre o melhor,**<br>
+**a ultrapassar limites e sempre criar algo novo**💜    
  
  
  ![gif](https://github.com/EduardaCoffacci/EduardaCoffacci/blob/main/32147-cute-cat-works-unscreen.gif)
